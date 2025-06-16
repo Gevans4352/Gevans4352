@@ -4,7 +4,7 @@
 ---
 
 ### 💻 About Me:
-- 🔭 Currently building: **A Notepad App with React**
+- 🔭 Currently building: **A Netflix clone with React**
 - 🐾 Dream Project: **A cute web app starring a ginger cat that walks, purrs, and naps**
 - 🧠 Learning: **React, TypeScript, Node.js & Web Animation**
 - 🌐 Languages fascinate me! I speak **English**, conversational **Korean**, **Chinese**, **Indonesian**, and currently flirting with **Thai** 😉
