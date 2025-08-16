@@ -4,11 +4,11 @@
 ---
 
 ### 💻 About Me:
-- 🔭 Currently building: **A Netflix clone with React**
-- 🐾 Dream Project: **A cute web app starring a ginger cat that walks, purrs, and naps**
+- 🔭 Currently building: **A Youtube clone with React**
+- 🐾 Dream Project: **A cute web app, dress up web app**
 - 🧠 Learning: **React, TypeScript, Node.js & Web Animation**
-- 🌐 Languages fascinate me! I speak **English**, conversational **Korean**, **Chinese**, **Indonesian**, and currently flirting with **Thai** 😉
-- 💬 Ask me about: **HTML | CSS | JavaScript/TypeScript | Git | UI Design**
+- 🌐 Languages fascinate me! I speak **English**, **Korean**, **Chinese**, **Indonesian**, and currently flirting with **Thai** 😉
+- 💬 Ask me about: **React | JavaScript/TypeScript | CSS/SCSS | HTML  | Git | UI Design**
 - ✨ Fun Fact: I'm a **polyglot** in both human and programming languages 🧋
 - 📫 Reach me at: **emogoghena@gmail.com**
 
@@ -56,9 +56,10 @@
 ---
 
 ### 🧁 Side Quests in Progress:
-- 🧾 **E-commerce Cocktail Project** using JavaScript + API integration
 - 📅 **Timetable Marker App** (planned)
-
+- 🧾 Love Letter Backend (planned)
+- 👗 Dress-Up Web App (planned)
+  
 
 ---
 
