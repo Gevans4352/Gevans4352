@@ -7,7 +7,7 @@
 - 🔭 Currently building: **A Youtube clone with React**
 - 🐾 Dream Project: **A cute web app, dress up web app**
 - 🧠 Learning: **React, TypeScript, Node.js & Web Animation**
-- 🌐 Languages fascinate me! I speak **English**, **Korean**, **Chinese**, **Indonesian**, and currently flirting with **Thai** 😉
+- 🌐 Languages fascinate me! I speak **English**, **Korean**, **Chinese** 
 - 💬 Ask me about: **React | JavaScript/TypeScript | CSS/SCSS | HTML  | Git | UI Design**
 - ✨ Fun Fact: I'm a **polyglot** in both human and programming languages 🧋
 - 📫 Reach me at: **emogoghena@gmail.com**
