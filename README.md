@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Feranmi</h1>
-<h3 align="center">A passionate Frontend Developer, Creative Coder & Aspiring Full-Stack Dev</h3>
+<h3 align="center">Frontend Developer & Aspiring Full-Stack Dev</h3>
 
 ---
 
