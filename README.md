@@ -58,7 +58,7 @@
 ---
 
 ###  Side Quests in Progress:
--  **Timetable Marker App** (planned)
+-  Timetable Marker App (planned)
 -  Love Letter Backend (planned)
 -  Dress-Up Web App (planned)
 -  portfolio 
@@ -67,5 +67,5 @@
 ---
 
 > _"Code is my canvas. Cats, coffee, and curiosity power my creativity."_  
-> – Genny 
+> – Feranmi
 
