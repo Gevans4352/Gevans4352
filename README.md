@@ -21,9 +21,6 @@
   <a href="https://www.codewars.com/users/Gevans4352" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
   </a>
-  <a href="https://www.codedex.io/@WhileTrueLoop" target="_blank">
-    <img src="https://img.shields.io/badge/Codedex-323330?style=for-the-badge&logo=codedex&logoColor=white" />
-  </a>
   <a href="https://codepen.io/oluwaferanmi-femi-olagundoye" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
@@ -42,7 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
 </p>
 
 ---
@@ -66,6 +62,6 @@
 
 ---
 
-> _"Code is my canvas. Cats, coffee, and curiosity power my creativity."_  
+> _"Life is an array, You're just a variable"_  
 > – Feranmi
 
