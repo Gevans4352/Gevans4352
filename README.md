@@ -21,8 +21,8 @@
   <a href="https://www.codewars.com/users/Gevans4352" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
   </a>
-  <a href="https://codepen.io/oluwaferanmi-femi-olagundoye" target="_blank">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+   <a href="https://www.codewars.com/users/Gevans4352" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
   </a>
 </p>
 
