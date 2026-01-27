@@ -21,9 +21,6 @@
   <a href="https://www.codewars.com/users/Gevans4352" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
   </a>
-   <a href="https://www.codewars.com/users/Gevans4352" target="_blank">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
-  </a>
 </p>
 
 ---
