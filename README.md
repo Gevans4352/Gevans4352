@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I+am+Feranmi!!!!!" />
 </h1>
-<h3 align="center">Frontend Developer & Aspiring Full-Stack Dev</h3>
+<h3 align="center">Frontend Developer and Intending Full-Stack Developer</h3>
 
 ---
 
