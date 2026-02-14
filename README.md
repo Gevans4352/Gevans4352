@@ -52,7 +52,7 @@
 
 ###  Side Quests in Progress:
 -  Timetable Marker App (planned)
--  Love Letter Backend (planned)
+-  Love Letter Backend and Ai implementation (planned)
 -  Dress-Up Web App (planned)
 -  portfolio
 -  3 match game using html css n js 
