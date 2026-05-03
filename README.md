@@ -5,8 +5,7 @@
 
 ---
 
-### 💻 About Me:
-- Currently building: **FluentRoot** — a multilingual AI chatbot supporting 5 Nigerian & international languages
+### 💻 About Me: 
 - Learning: **Node.js, Express & Web Animation**
 - Languages fascinate me! I speak **English, Mandarin & Tagalog**
 - Ask me about: **React | TypeScript | CSS/SCSS | HTML | Git | UI Design**
