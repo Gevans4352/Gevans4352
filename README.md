@@ -1,4 +1,6 @@
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com font=Fira+Code&pause=1000&width=435&lines=Hi,+I+am+Feranmi!" /> </h1> 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I+am+Feranmi!" />
+</h1>
 
 <h3>Frontend Developer | Software Engineering Student</h3>
 
