@@ -6,26 +6,23 @@
 
 <p align="center">⋆.˚✮🎧✮˚.⋆</p>
 
+<p align="center">────୨ৎ────</p>
+
+<h3 align="center">✦ About Me</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gevans4352&style=flat-square&color=ff4fa3" alt="Profile Views" />
+Learning: <strong>Node.js, Express & Web Animation</strong><br>
+Currently grinding: <strong>backend fundamentals + LeetCode</strong><br>
+Languages fascinate me — I speak <strong>English, Mandarin & Tagalog</strong><br>
+Ask me about: <strong>React | TypeScript | CSS/SCSS | HTML | Git | UI Design</strong><br>
+Fun fact: I'm a <strong>polyglot</strong> in both human and programming languages
 </p>
 
-────୨ৎ────
+<p align="center">°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･</p>
 
-### ✦ About Me
+<h3 align="center">➤ Connect With Me</h3>
 
-- Learning: **Node.js, Express & Web Animation**
-- Currently grinding: **Backend fundamentals + LeetCode** 
-- Languages fascinate me — I speak **English, Mandarin & Tagalog**
-- Ask me about: **React | TypeScript | CSS/SCSS | HTML | Git | UI Design**
-- Fun fact: I'm a **polyglot** in both human and programming languages
-- Reach me at: **emogoghena@gmail.com**
-
-°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
-
-### ➤ Connect With Me
-
-<p align="left">
+<p align="center">
   <a href="mailto:emogoghena@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -34,31 +31,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
  
-</p>
-
-‧₊˚🖇️✩ ₊˚🎧⊹♡
-
-### ✦ LeetCode Progress
-
-<p align="left">
-  <a href="https://leetcode.com/u/Love_yourself2013/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Love_yourself2013?theme=dark&font=Fira%20Code&extension=activity" alt="LeetCode Stats" />
-  </a>
-</p>
-
-<p align="left">
   <a href="https://www.codewars.com/users/Gevans4352" target="_blank">
-    <img src="https://www.codewars.com/users/Gevans4352/badges/large" alt="Codewars Stats" />
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
   </a>
 </p>
 
-Working toward 100 solved by December one array, one headache at a time.
+<p align="center">────୨ৎ────</p>
 
-────୨ৎ────
+<h3 align="center">✦ Frontend Toolkit</h3>
 
-### ✦ Frontend Toolkit
-
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
@@ -70,11 +52,11 @@ Working toward 100 solved by December one array, one headache at a time.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
-༘˚⋆𐙚｡⋆𖦹.✧˚
+<p align="center">༘˚⋆𐙚｡⋆𖦹.✧˚</p>
 
-### ✦ Backend Toolkit — in progress
+<h3 align="center">✦ Backend Toolkit — in progress</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
@@ -83,26 +65,27 @@ Working toward 100 solved by December one array, one headache at a time.
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 </p>
 
-. ܁₊ ⊹ . ܁ ⟡ ܁ . ⊹ ₊ ܁.
+<p align="center">. ܁₊ ⊹ . ܁ ⟡ ܁ . ⊹ ₊ ܁.</p>
 
-### ➤ GitHub Stats
+<h3 align="center">➤ GitHub Stats</h3>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gevans4352&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gevans4352&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gevans4352" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gevans4352" alt="GitHub Streak" />
 </p>
 
-🎧ྀི♪⋆.✮
+<p align="center">🎧ྀི♪⋆.✮</p>
 
-### ✦ Projects in Progress
+<h3 align="center">✦ Projects in Progress</h3>
 
-- **Cave Crawler** — a procedurally generated maze where the walls shift over time, built with vanilla JS and a BFS reachability check to guarantee the exit always stays reachable
-- **LinguCute** — Language learning platform with gamification and progress tracking
-- **Portfolio Website** — Coming soon
+<p align="center">
+<strong>LinguCute</strong> — Language learning platform with gamification and progress tracking<br><br>
+<strong>Portfolio Website</strong> — Coming soon
+</p>
 
-🕸️๋࣭ ⭑
+<p align="center">🕸️๋࣭ ⭑</p>
 
 <p align="center">
 <em>"Life is an array, You're just a variable"</em>
