@@ -26,7 +26,6 @@ Fun fact: I'm a <strong>polyglot</strong> in both human and programming language
   <a href="mailto:emogoghena@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  add your LinkedIn badge here, e.g.:
   <a href="https://www.linkedin.com/in/feranmi-femi-olagundoye-8a91ba24b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
